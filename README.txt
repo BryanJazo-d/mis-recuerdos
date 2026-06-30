@@ -1,0 +1,1 @@
+body{margin:0;background:#fff5f8;font-family:system-ui;color:#333}.wrap{max-width:800px;margin:auto;padding:40px}h1{color:#d63384}section{background:#fff;border-radius:18px;padding:20px;margin:20px 0;box-shadow:0 8px 20px rgba(0,0,0,.08)}
